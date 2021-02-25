@@ -1,3 +1,4 @@
 {
-  "helloWorld": "Bonjour le monde!"
+  "helloWorld": "Привет, мир!",
+  "todayIs": "Сегодня"
 }

@@ -11,4 +11,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get helloWorld => 'Привет, мир!';
+
+  @override
+  String get todayIs => 'Сегодня';
 }

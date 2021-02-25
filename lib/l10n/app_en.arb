@@ -2,5 +2,10 @@
   "helloWorld": "Hello World!",
   "@helloWorld": {
     "description": "The conventional newborn programmer greeting"
+  },
+
+  "todayIs": "Today is",
+  "@todayIs": {
+    "description": "Label for today's date"
   }
 }

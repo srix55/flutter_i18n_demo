@@ -11,4 +11,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get helloWorld => 'Bonjour le monde!';
+
+  @override
+  String get todayIs => 'aujourd\'hui c\'est';
 }
